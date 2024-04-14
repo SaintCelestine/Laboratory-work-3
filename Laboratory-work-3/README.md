@@ -2,7 +2,7 @@
 2.1 Документування рішень завдань лабораторної роботи
 
 Рис. 1 – Фрагмент екрану з рішення завдань з 2.1.1.1 по 2.1.1.5.
-![Screenshot_6](https://github.com/SaintCelestine/Laboratory-work-3/assets/162352412/1d05fd0e-c52a-461d-bf90-b499ce490017)
+![Screenshot_11](https://github.com/SaintCelestine/Laboratory-work-3/assets/162352412/54224041-8eec-4687-a2df-41e645067191)
 
 Рис. 2 – Фрагмент екрану з рішення завдань з 2.1.1.6 та 2.1.1.7.
 ![Screenshot_8](https://github.com/SaintCelestine/Laboratory-work-3/assets/162352412/fd3f80c3-a443-4916-b624-cf99354fd9b7)
